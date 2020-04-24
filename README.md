@@ -1,28 +1,23 @@
-# This is a large heading
+# Xiaoqing Chen
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I was born in Shanghai and grew up near the Bund. 
+I'm currently doing a PhD in Mathematics (Spatial Statistics) in Exeter, UK
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+### Hobbies
 
-Here is `some code` in the middle of a sentence.
+My hobbies are:
 
-```
-This is
-a block
-of code
-```
+- Learning advanced Mathematical and Statistical Theory
+- Practicing Caligraphy
+- Playing Arduino
+- Swimming
+- Taking photographs for cats
+- Cooking (this is a newly developed one) 
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/jhu.edu/jeff.jpg)
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/xiaoqingchen).
