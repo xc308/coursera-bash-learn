@@ -23,7 +23,10 @@ My hobbies are:
 The best way to get in touch with me is [on Twitter](https://twitter.com/xiaoqingchen).
 
 
-### Photos 
+### Favourite Photos 
 
-![This is one of my favorite photos](images/xlarge_web.jpg)
+- This is a pic captured by Hubble NASA
+<img src="https://github.com/xc308/coursera-bash-learn/blob/update-readme/images/xlarge_web.jpg" width="500" height="350">
+
+
 
