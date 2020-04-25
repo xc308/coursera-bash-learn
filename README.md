@@ -25,5 +25,5 @@ The best way to get in touch with me is [on Twitter](https://twitter.com/xiaoqin
 
 ### Photos 
 
-![This is one of my favorite photos|40x35](images/xlarge_web.jpg "This is a pic captured by Hubble NASA")
+![This is one of my favorite photos](images/xlarge_web.jpg "This is a pic captured by Hubble NASA" =250x)
 
