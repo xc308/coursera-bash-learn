@@ -24,4 +24,5 @@ The best way to get in touch with me is [on Twitter](https://twitter.com/xiaoqin
 
 
 ### Photos I took
-
+- This is a pic captured by Hubble NASA
+<img src="https://github.com/xc308/coursera-bash-learn/blob/update-readme/images/xlarge_web.jpg">
