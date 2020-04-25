@@ -23,6 +23,5 @@ My hobbies are:
 The best way to get in touch with me is [on Twitter](https://twitter.com/xiaoqingchen).
 
 
-### Headshot
+### Photos I took
 
-This is me ![a pic of me](https://photos.google.com/album/AF1QipMMiEnqJPs0zdyPPlWPca3eYDkMYWEK0VoghtzV/photo/AF1QipOL0LPZ3FlLRKLoS6anNwT6l1griTByJoVpBayO)
