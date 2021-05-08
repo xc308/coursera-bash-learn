@@ -1,10 +1,5 @@
 # Xiaoqing Chen
 
-### Geography
-
-I was born in Shanghai and grew up near the Bund. 
-I'm currently doing a PhD in Mathematics (Spatial Statistics) in Exeter, UK
-
 
 ### Hobbies
 
